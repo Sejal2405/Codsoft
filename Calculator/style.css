@@ -1,0 +1,30 @@
+*{
+    margin: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: purple;
+    background-color: lightblue;
+}
+
+.calculator{
+    width: 400px;
+    background-color: lightblue;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input[type="text"]{
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+}
+
+body{
+    background-color:black;
+}
